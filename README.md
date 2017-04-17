@@ -1,6 +1,6 @@
 # Weatherhis
 
-Weatherhis can create a trend-analysis graph of wearther history for some city in china.
+Weatherhis can create a trend-analysis graph of weather history for some city in China.
 
 Example:
 
