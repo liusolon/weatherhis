@@ -2,10 +2,6 @@
 
 Weatherhis can create a trend-analysis graph of weather history for some city in China.
 
-Example:
-
-![BeiJing Tempertature](https://raw.githubusercontent.com/liusolon/weatherhis/master/beijing.png)
-
 
 ## Usage
     ./weatherhis.sh cityname
@@ -21,3 +17,13 @@ For Ubuntu and Debin:
 For Redhat and Centos:
 
     yum instlal w3m gnuplot
+
+
+## Example
+
+	./weatherhis.sh beijing
+	Weather data is dumping ....................................................................................Finished!
+
+Created beijing.png:
+
+![BeiJing Tempertature](https://raw.githubusercontent.com/liusolon/weatherhis/master/beijing.png)
