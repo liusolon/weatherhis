@@ -1,10 +1,10 @@
 # Weatherhis
-Weatherhis can create a trend-analysis graph
+  Weatherhis can create a trend-analysis graph
 
 ## Usage
-  ./weatherhis cityname
+    ./weatherhis cityname
   
 ## Install
-weatherhis nead install w3m and gnuplot
+  weatherhis nead install w3m and gnuplot
 
-  sudo apt install w3m gnuplot
+    sudo apt install w3m gnuplot
