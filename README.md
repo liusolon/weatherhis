@@ -1,5 +1,5 @@
 # Weatherhis
-Weatherhis can create a trend-analysis graph
+Weatherhis can create a trend-analysis graph of wearther history for some city in china.
 
 ## Usage
     ./weatherhis.sh cityname
