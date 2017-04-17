@@ -1,5 +1,9 @@
 # Weatherhis
 Weatherhis can create a trend-analysis graph of wearther history for some city in china.
+Example:
+
+![BeiJing Tempertature](https://raw.githubusercontent.com/liusolon/weatherhis/master/beijing.png)
+
 
 ## Usage
     ./weatherhis.sh cityname
